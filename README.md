@@ -1,11 +1,11 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 - 🔭 I’m currently working on [Real Time Quiz Application](https://github.com/Prakash1233ruw/Real-Time-Quiz-Application)
 
-- 🌱 I’m currently learning **Spring cloud, Spring AI, Microsevices**
+- 🌱 I’m currently learning **Spring cloud, Spring AI, Microservices, AWS**
 
 - 📫 How to reach me **prakashchappidi02@gmail.com**
 
