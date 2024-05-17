@@ -21,6 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash1233ruw&" alt="prakash1233ruw" /></p>
 
-[![Prakash1233ruw's GitHub | Languages Over Time](https://stats.quine.sh/Prakash1233ruw/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Prakash1233ruw)
-
 [![Prakash1233ruw's GitHub | Stats](https://stats.quine.sh/Prakash1233ruw/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Prakash1233ruw)
