@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on [Real Time Quiz Application](https://github.com/Prakash1233ruw/Real-Time-Quiz-Application)
+- 🔭 I’m currently working on [Smart-Health-Management-System](https://github.com/Prakash1233ruw/Smart-Health-Management-System)
 
 - 🌱 I’m currently learning **Spring cloud, Spring AI, Microservices, AWS**
 
